@@ -460,7 +460,9 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 2
-  m_Text: ENTER
+  m_Text: 'RESTART
+
+'
 --- !u!222 &283960029
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -917,7 +919,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: 'RESTART
+  m_Text: 'ENTER
 
 '
 --- !u!222 &750612627
